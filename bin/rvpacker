@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # -*- coding: utf-8 -*-
 
-require 'trollop'
+require 'optimist'
 require 'RGSS'
 
 opts = Trollop::options do
